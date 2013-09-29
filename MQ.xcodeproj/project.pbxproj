@@ -1,0 +1,414 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5423CDCC17F3EF6900E210C8 /* registerPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 5423CDCB17F3EF6900E210C8 /* registerPage.m */; };
+		54438B1817F883AC00F81C40 /* addthis-variation.png in Resources */ = {isa = PBXBuildFile; fileRef = 54438B1117F883AC00F81C40 /* addthis-variation.png */; };
+		54438B1917F883AC00F81C40 /* email-variation.png in Resources */ = {isa = PBXBuildFile; fileRef = 54438B1217F883AC00F81C40 /* email-variation.png */; };
+		54438B1A17F883AC00F81C40 /* facebook-variation.png in Resources */ = {isa = PBXBuildFile; fileRef = 54438B1317F883AC00F81C40 /* facebook-variation.png */; };
+		54438B1B17F883AC00F81C40 /* instagram-variation.png in Resources */ = {isa = PBXBuildFile; fileRef = 54438B1417F883AC00F81C40 /* instagram-variation.png */; };
+		54438B1C17F883AC00F81C40 /* like-variation.png in Resources */ = {isa = PBXBuildFile; fileRef = 54438B1517F883AC00F81C40 /* like-variation.png */; };
+		54438B1D17F883AC00F81C40 /* livejournal-variation.png in Resources */ = {isa = PBXBuildFile; fileRef = 54438B1617F883AC00F81C40 /* livejournal-variation.png */; };
+		54438B1E17F883AC00F81C40 /* messenger-generic.png in Resources */ = {isa = PBXBuildFile; fileRef = 54438B1717F883AC00F81C40 /* messenger-generic.png */; };
+		54CC438A17EE01BF00F63079 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54CC438917EE01BF00F63079 /* UIKit.framework */; };
+		54CC438C17EE01BF00F63079 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54CC438B17EE01BF00F63079 /* Foundation.framework */; };
+		54CC438E17EE01BF00F63079 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54CC438D17EE01BF00F63079 /* CoreGraphics.framework */; };
+		54CC439417EE01BF00F63079 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 54CC439217EE01BF00F63079 /* InfoPlist.strings */; };
+		54CC439617EE01BF00F63079 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CC439517EE01BF00F63079 /* main.m */; };
+		54CC439A17EE01BF00F63079 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CC439917EE01BF00F63079 /* AppDelegate.m */; };
+		54CC439C17EE01BF00F63079 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC439B17EE01BF00F63079 /* Default.png */; };
+		54CC439E17EE01BF00F63079 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC439D17EE01BF00F63079 /* Default@2x.png */; };
+		54CC43A017EE01BF00F63079 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC439F17EE01BF00F63079 /* Default-568h@2x.png */; };
+		54CC43B017EE04D200F63079 /* loadPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 54CC43AF17EE04D200F63079 /* loadPage.m */; };
+		54CC43B617EE0EDD00F63079 /* MainPage-i4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 54CC43B417EE0EDD00F63079 /* MainPage-i4.jpg */; };
+		54CC43B717EE0EDD00F63079 /* MainPage-i5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 54CC43B517EE0EDD00F63079 /* MainPage-i5.jpg */; };
+		54CC43BD17EE134100F63079 /* button-back.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC43B917EE134100F63079 /* button-back.png */; };
+		54CC43BE17EE134100F63079 /* button-email.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC43BA17EE134100F63079 /* button-email.png */; };
+		54CC43BF17EE134100F63079 /* button-facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 54CC43BB17EE134100F63079 /* button-facebook.png */; };
+		54CC43C017EE134100F63079 /* button-profile.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 54CC43BC17EE134100F63079 /* button-profile.jpg */; };
+		54CC43C217EE350400F63079 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54CC43C117EE350400F63079 /* QuartzCore.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5423CDCA17F3EF6900E210C8 /* registerPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = registerPage.h; sourceTree = "<group>"; };
+		5423CDCB17F3EF6900E210C8 /* registerPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = registerPage.m; sourceTree = "<group>"; };
+		54438B1117F883AC00F81C40 /* addthis-variation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "addthis-variation.png"; sourceTree = "<group>"; };
+		54438B1217F883AC00F81C40 /* email-variation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "email-variation.png"; sourceTree = "<group>"; };
+		54438B1317F883AC00F81C40 /* facebook-variation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebook-variation.png"; sourceTree = "<group>"; };
+		54438B1417F883AC00F81C40 /* instagram-variation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instagram-variation.png"; sourceTree = "<group>"; };
+		54438B1517F883AC00F81C40 /* like-variation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "like-variation.png"; sourceTree = "<group>"; };
+		54438B1617F883AC00F81C40 /* livejournal-variation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "livejournal-variation.png"; sourceTree = "<group>"; };
+		54438B1717F883AC00F81C40 /* messenger-generic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "messenger-generic.png"; sourceTree = "<group>"; };
+		54CC438617EE01BF00F63079 /* MQ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MQ.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		54CC438917EE01BF00F63079 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		54CC438B17EE01BF00F63079 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		54CC438D17EE01BF00F63079 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		54CC439117EE01BF00F63079 /* MQ-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MQ-Info.plist"; sourceTree = "<group>"; };
+		54CC439317EE01BF00F63079 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		54CC439517EE01BF00F63079 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		54CC439717EE01BF00F63079 /* MQ-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MQ-Prefix.pch"; sourceTree = "<group>"; };
+		54CC439817EE01BF00F63079 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		54CC439917EE01BF00F63079 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		54CC439B17EE01BF00F63079 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		54CC439D17EE01BF00F63079 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		54CC439F17EE01BF00F63079 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		54CC43AE17EE04D200F63079 /* loadPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = loadPage.h; sourceTree = "<group>"; };
+		54CC43AF17EE04D200F63079 /* loadPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = loadPage.m; sourceTree = "<group>"; };
+		54CC43B417EE0EDD00F63079 /* MainPage-i4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "MainPage-i4.jpg"; sourceTree = "<group>"; };
+		54CC43B517EE0EDD00F63079 /* MainPage-i5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "MainPage-i5.jpg"; sourceTree = "<group>"; };
+		54CC43B917EE134100F63079 /* button-back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-back.png"; sourceTree = "<group>"; };
+		54CC43BA17EE134100F63079 /* button-email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-email.png"; sourceTree = "<group>"; };
+		54CC43BB17EE134100F63079 /* button-facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-facebook.png"; sourceTree = "<group>"; };
+		54CC43BC17EE134100F63079 /* button-profile.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "button-profile.jpg"; sourceTree = "<group>"; };
+		54CC43C117EE350400F63079 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		54CC438317EE01BF00F63079 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				54CC43C217EE350400F63079 /* QuartzCore.framework in Frameworks */,
+				54CC438A17EE01BF00F63079 /* UIKit.framework in Frameworks */,
+				54CC438C17EE01BF00F63079 /* Foundation.framework in Frameworks */,
+				54CC438E17EE01BF00F63079 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		54438B1017F8833900F81C40 /* Icon */ = {
+			isa = PBXGroup;
+			children = (
+				54438B1117F883AC00F81C40 /* addthis-variation.png */,
+				54438B1217F883AC00F81C40 /* email-variation.png */,
+				54438B1317F883AC00F81C40 /* facebook-variation.png */,
+				54438B1417F883AC00F81C40 /* instagram-variation.png */,
+				54438B1517F883AC00F81C40 /* like-variation.png */,
+				54438B1617F883AC00F81C40 /* livejournal-variation.png */,
+				54438B1717F883AC00F81C40 /* messenger-generic.png */,
+			);
+			name = Icon;
+			sourceTree = "<group>";
+		};
+		54CC437D17EE01BF00F63079 = {
+			isa = PBXGroup;
+			children = (
+				54CC438F17EE01BF00F63079 /* MQ */,
+				54CC438817EE01BF00F63079 /* Frameworks */,
+				54CC438717EE01BF00F63079 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		54CC438717EE01BF00F63079 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				54CC438617EE01BF00F63079 /* MQ.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		54CC438817EE01BF00F63079 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				54CC43C117EE350400F63079 /* QuartzCore.framework */,
+				54CC438917EE01BF00F63079 /* UIKit.framework */,
+				54CC438B17EE01BF00F63079 /* Foundation.framework */,
+				54CC438D17EE01BF00F63079 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		54CC438F17EE01BF00F63079 /* MQ */ = {
+			isa = PBXGroup;
+			children = (
+				54CC43B217EE0EDD00F63079 /* WorkArt */,
+				54CC43B117EE04D900F63079 /* class */,
+				54CC43AD17EE049F00F63079 /* Page */,
+				54CC43AC17EE048600F63079 /* AppDelegate */,
+				54CC439017EE01BF00F63079 /* Supporting Files */,
+			);
+			path = MQ;
+			sourceTree = "<group>";
+		};
+		54CC439017EE01BF00F63079 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				54CC439117EE01BF00F63079 /* MQ-Info.plist */,
+				54CC439217EE01BF00F63079 /* InfoPlist.strings */,
+				54CC439517EE01BF00F63079 /* main.m */,
+				54CC439717EE01BF00F63079 /* MQ-Prefix.pch */,
+				54CC439B17EE01BF00F63079 /* Default.png */,
+				54CC439D17EE01BF00F63079 /* Default@2x.png */,
+				54CC439F17EE01BF00F63079 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		54CC43AC17EE048600F63079 /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				54CC439817EE01BF00F63079 /* AppDelegate.h */,
+				54CC439917EE01BF00F63079 /* AppDelegate.m */,
+			);
+			name = AppDelegate;
+			sourceTree = "<group>";
+		};
+		54CC43AD17EE049F00F63079 /* Page */ = {
+			isa = PBXGroup;
+			children = (
+				54CC43AE17EE04D200F63079 /* loadPage.h */,
+				54CC43AF17EE04D200F63079 /* loadPage.m */,
+				5423CDCA17F3EF6900E210C8 /* registerPage.h */,
+				5423CDCB17F3EF6900E210C8 /* registerPage.m */,
+			);
+			name = Page;
+			sourceTree = "<group>";
+		};
+		54CC43B117EE04D900F63079 /* class */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = class;
+			sourceTree = "<group>";
+		};
+		54CC43B217EE0EDD00F63079 /* WorkArt */ = {
+			isa = PBXGroup;
+			children = (
+				54438B1017F8833900F81C40 /* Icon */,
+				54CC43B817EE134100F63079 /* Button */,
+				54CC43B317EE0EDD00F63079 /* Bg */,
+			);
+			path = WorkArt;
+			sourceTree = "<group>";
+		};
+		54CC43B317EE0EDD00F63079 /* Bg */ = {
+			isa = PBXGroup;
+			children = (
+				54CC43B417EE0EDD00F63079 /* MainPage-i4.jpg */,
+				54CC43B517EE0EDD00F63079 /* MainPage-i5.jpg */,
+			);
+			path = Bg;
+			sourceTree = "<group>";
+		};
+		54CC43B817EE134100F63079 /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				54CC43B917EE134100F63079 /* button-back.png */,
+				54CC43BA17EE134100F63079 /* button-email.png */,
+				54CC43BB17EE134100F63079 /* button-facebook.png */,
+				54CC43BC17EE134100F63079 /* button-profile.jpg */,
+			);
+			path = Button;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		54CC438517EE01BF00F63079 /* MQ */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 54CC43A917EE01BF00F63079 /* Build configuration list for PBXNativeTarget "MQ" */;
+			buildPhases = (
+				54CC438217EE01BF00F63079 /* Sources */,
+				54CC438317EE01BF00F63079 /* Frameworks */,
+				54CC438417EE01BF00F63079 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MQ;
+			productName = MQ;
+			productReference = 54CC438617EE01BF00F63079 /* MQ.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		54CC437E17EE01BF00F63079 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = Komsit;
+			};
+			buildConfigurationList = 54CC438117EE01BF00F63079 /* Build configuration list for PBXProject "MQ" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 54CC437D17EE01BF00F63079;
+			productRefGroup = 54CC438717EE01BF00F63079 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				54CC438517EE01BF00F63079 /* MQ */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		54CC438417EE01BF00F63079 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				54CC439417EE01BF00F63079 /* InfoPlist.strings in Resources */,
+				54438B1D17F883AC00F81C40 /* livejournal-variation.png in Resources */,
+				54438B1E17F883AC00F81C40 /* messenger-generic.png in Resources */,
+				54CC439C17EE01BF00F63079 /* Default.png in Resources */,
+				54CC439E17EE01BF00F63079 /* Default@2x.png in Resources */,
+				54438B1A17F883AC00F81C40 /* facebook-variation.png in Resources */,
+				54CC43A017EE01BF00F63079 /* Default-568h@2x.png in Resources */,
+				54438B1917F883AC00F81C40 /* email-variation.png in Resources */,
+				54CC43B617EE0EDD00F63079 /* MainPage-i4.jpg in Resources */,
+				54438B1C17F883AC00F81C40 /* like-variation.png in Resources */,
+				54CC43B717EE0EDD00F63079 /* MainPage-i5.jpg in Resources */,
+				54CC43BD17EE134100F63079 /* button-back.png in Resources */,
+				54CC43BE17EE134100F63079 /* button-email.png in Resources */,
+				54438B1817F883AC00F81C40 /* addthis-variation.png in Resources */,
+				54CC43BF17EE134100F63079 /* button-facebook.png in Resources */,
+				54438B1B17F883AC00F81C40 /* instagram-variation.png in Resources */,
+				54CC43C017EE134100F63079 /* button-profile.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		54CC438217EE01BF00F63079 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				54CC439617EE01BF00F63079 /* main.m in Sources */,
+				54CC439A17EE01BF00F63079 /* AppDelegate.m in Sources */,
+				54CC43B017EE04D200F63079 /* loadPage.m in Sources */,
+				5423CDCC17F3EF6900E210C8 /* registerPage.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		54CC439217EE01BF00F63079 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				54CC439317EE01BF00F63079 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		54CC43A717EE01BF00F63079 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		54CC43A817EE01BF00F63079 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		54CC43AA17EE01BF00F63079 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MQ/MQ-Prefix.pch";
+				INFOPLIST_FILE = "MQ/MQ-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		54CC43AB17EE01BF00F63079 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MQ/MQ-Prefix.pch";
+				INFOPLIST_FILE = "MQ/MQ-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		54CC438117EE01BF00F63079 /* Build configuration list for PBXProject "MQ" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				54CC43A717EE01BF00F63079 /* Debug */,
+				54CC43A817EE01BF00F63079 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		54CC43A917EE01BF00F63079 /* Build configuration list for PBXNativeTarget "MQ" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				54CC43AA17EE01BF00F63079 /* Debug */,
+				54CC43AB17EE01BF00F63079 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 54CC437E17EE01BF00F63079 /* Project object */;
+}
